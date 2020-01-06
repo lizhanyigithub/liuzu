@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     大家努力工作！！！
+    这是占一工作完的提交
   </div>
 </template>
 
